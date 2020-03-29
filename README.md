@@ -1,2 +1,3 @@
 # hello-word
-Just another repository
+
+My name's Arthur, and I'm learning database with python, R. and machine learning
